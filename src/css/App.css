@@ -1,0 +1,9 @@
+.nav-font {
+  color: red;
+}
+
+.vl {
+  border-left: 4px solid red;
+  margin-top: 50px;
+  height: 500px;
+}
